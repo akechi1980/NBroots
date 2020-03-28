@@ -1,7 +1,5 @@
 {
-    "_comment"  : "注释:",
-  
-    "status"    : 1,
-  
+    "_comment"  : "注释:",  
+    "status"    : 1,  
     "msg"       : "処理失敗しました。"
 }
