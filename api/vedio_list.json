@@ -16,8 +16,8 @@
     "dataRows": [
       {
         "id": 1,
-        "src": "/img/VedioMarket/1.mp4",
-        "poster": "/img/VedioMarket/1.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/1.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png",
         "name": "1.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "110",
@@ -26,8 +26,8 @@
       },
       {
         "id": 2,
-        "src": "/img/VedioMarket/2.mp4",
-        "poster": "/img/VedioMarket/2.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/2.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png",
         "name": "2.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "210",
@@ -36,8 +36,8 @@
       },
       {
         "id": 3,
-        "src": "/img/VedioMarket/3.mp4",
-        "poster": "/img/VedioMarket/3.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/3.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/3.png",
         "name": "3.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "110",
@@ -46,8 +46,8 @@
       },
       {
         "id": 4,
-        "src": "/img/VedioMarket/4.mp4",
-        "poster": "/img/VedioMarket/4.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/4.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/4.png",
         "name": "4.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "210",
@@ -56,8 +56,8 @@
       },
       {
         "id": 5,
-        "src": "/img/VedioMarket/5.mp4",
-        "poster": "/img/VedioMarket/5.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/5.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/5.png",
         "name": "5.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "110",
@@ -66,8 +66,8 @@
       },
       {
         "id": 6,
-        "src": "/img/VedioMarket/6.mp4",
-        "poster": "/img/VedioMarket/6.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/6.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/6.png",
         "name": "6.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "210",
@@ -76,8 +76,8 @@
       },
       {
         "id": 7,
-        "src": "/img/VedioMarket/7.mp4",
-        "poster": "/img/VedioMarket/7.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.png",
         "name": "7.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "110",
@@ -86,8 +86,8 @@
       },
       {
         "id": 8,
-        "src": "/img/VedioMarket/8.mp4",
-        "poster": "/img/VedioMarket/8.png",
+        "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/8.mp4",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/8.png",
         "name": "8.mp4",
         "detail": "映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する映像内容、説明する時使う内容をここに記入する",
         "price": "210",
