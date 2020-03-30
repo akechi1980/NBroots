@@ -1,0 +1,24 @@
+{
+    "_comment": "注释:",
+    "status": 0,
+    "msg": "",
+    "infos": {
+        "count": 67,
+        "pageSize": 0,
+        "pageNo": 0,
+        "dataRows": [
+            {
+                "id": 1,
+                "place": "EXP本社ビル設置"
+            },
+            {
+                "id": 2,
+                "place": "EXP御茶ノ水事務所設置"
+            },
+            {
+                "id": 3,
+                "place": "NRI保土ヶ谷設置"
+            }
+        ]
+    }
+}
