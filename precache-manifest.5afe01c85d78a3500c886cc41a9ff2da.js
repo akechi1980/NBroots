@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e51b3a921045fbfd9c5001089f5b6a8e",
+    "revision": "6850938ffc6183fadf4d1062843a7c21",
     "url": "/NBroots/index.html"
   },
   {
-    "revision": "499580ee1cd0a12dae32",
+    "revision": "b3883bc236f4dc8a8fba",
     "url": "/NBroots/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "8e002ec3966828feff07",
+    "revision": "c34b4de29eedfa78584a",
     "url": "/NBroots/static/css/main.ecbd5c54.chunk.css"
   },
   {
-    "revision": "499580ee1cd0a12dae32",
-    "url": "/NBroots/static/js/2.acfe6a57.chunk.js"
+    "revision": "b3883bc236f4dc8a8fba",
+    "url": "/NBroots/static/js/2.6299e0e2.chunk.js"
   },
   {
-    "revision": "8e002ec3966828feff07",
-    "url": "/NBroots/static/js/main.b0ad93d8.chunk.js"
+    "revision": "c34b4de29eedfa78584a",
+    "url": "/NBroots/static/js/main.23a6b31e.chunk.js"
   },
   {
     "revision": "0aac78082bb7ab96fa33",
@@ -26,14 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d2f2f4baa617ba08685b4d9118dc029",
     "url": "/NBroots/static/media/bg-pricing.4d2f2f4b.jpeg"
-  },
-  {
-    "revision": "6ee66b2cb8a3d9988e37b83b3b4a590e",
-    "url": "/NBroots/static/media/card-1.6ee66b2c.jpeg"
-  },
-  {
-    "revision": "ae10829f019b0103525a6cd1102ee213",
-    "url": "/NBroots/static/media/card-2.ae10829f.jpeg"
   },
   {
     "revision": "5b7c1cad66a2efdbf3604615cc9d7d1c",

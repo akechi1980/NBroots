@@ -1,0 +1,42 @@
+{
+    "_comment": "注释:システム管理＞企業管理画面用",
+    "status": 0,
+    "msg": "",
+    "infos": {
+        "count": 67,
+        "pageSize": 10,
+        "pageNo": 7,
+        "orderBy": "time",
+        "sortType": "desc",
+        "dataRows": [
+            {
+                "id": 1,
+                "corpname"  : "株式会社EXP",
+                "postcode"  : "101-1456",
+                "address"   : "〇〇県〇〇市〇〇町１-１-１　〇〇ビルＮ階",
+                "tel"       : "010-1234-5678"
+            },
+            {
+                "id": 2,
+                "corpname"  : "株式会社EXP　SH",
+                "postcode"  : "111-1456",
+                "address"   : "〇〇県〇〇市〇〇町１-１-１　〇〇ビルＮ階",
+                "tel"       : "010-1234-5678"
+            },
+            {
+                "id": 3,
+                "corpname"  : "株式会社NRISC",
+                "postcode"  : "222-1456",
+                "address"   : "〇〇県〇〇市〇〇町１-１-１　〇〇ビルＮ階",
+                "tel"       : "010-1234-5678"
+            },
+            {
+                "id": 4,
+                "corpname"  : "株式会社NRI",
+                "postcode"  : "333-1456",
+                "address"   : "〇〇県〇〇市〇〇町１-１-１　〇〇ビルＮ階",
+                "tel"       : "010-1234-5678"
+            }
+        ]
+    }
+}

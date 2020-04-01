@@ -1,0 +1,82 @@
+{
+  "_comment": "端末状況＞詳細情報の　端末VEDIOLIST",
+  "status": 0,
+  "msg": "",
+  "infos": {
+    "count": 67,
+    "pageSize": 10,
+    "pageNo": 7,
+    "orderBy": "time",
+    "sortType": "desc",
+    "dataRows": [
+      {
+        "id": 1,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png"
+        
+      },
+      {
+        "id": 2,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png"
+      },
+      {
+        "id": 3,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/4.png"
+      },
+      {
+        "id": 4,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/3.png"
+      },
+      {
+        "id": 5,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/5.png"
+      },
+
+      {
+        "id": 6,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/6.png"
+      },
+      {
+        "id": 7,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.png"
+      },
+      {
+        "id": 8,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.png"
+      },
+      {
+        "id": 9,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.png"
+      },
+      {
+        "id": 10,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.png"
+      },
+      {
+        "id": 11,
+        "vedioLength": "10:00",
+        "vedioSize": "100M",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "_comment": "注释:システム管理＞アカント管理画面用",
+    "status": 0,
+    "msg": "",
+    "infos": {
+        "count": 67,
+        "pageSize": 10,
+        "pageNo": 7,
+        "orderBy": "time",
+        "sortType": "desc",
+        "dataRows": [
+            {
+                "id": 1,
+                "corp": "株式会社EXP",
+                "email": "admin@xxx-xxxx.com",
+                "username": "山田1",
+                "katagana": "ヤマダ1",
+                "isadmin": 0
+            },
+            {
+                "id": 2,
+                "corp": "株式会社EXP",
+                "email": "admin@xxx-xxxx.com",
+                "username": "山田1",
+                "katagana": "ヤマダ1",
+                "isadmin": 0
+            },
+            {
+                "id": 3,
+                "corp": "株式会社EXP",
+                "email": "admin2@xxx-xxxx.com",
+                "username": "山田2",
+                "katagana": "ヤマダ2",
+                "isadmin": 1
+            },
+            {
+                "id": 4,
+                "corp": "株式会社NRI",
+                "email": "admin3@xxx-xxxx.com",
+                "username": "山田3",
+                "katagana": "ヤマダ3",
+                "isadmin": 0
+            },
+            {
+                "id": 5,
+                "corp": "株式会社NRI",
+                "email": "admin4@xxx-xxxx.com",
+                "username": "山田4",
+                "katagana": "ヤマダ4",
+                "isadmin": 0
+            }
+        ]
+    }
+}

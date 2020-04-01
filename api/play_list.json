@@ -1,0 +1,134 @@
+{
+    "_comment": "注释:プレイリスト＞プレイリスト一覧",
+    "status": 0,
+    "msg": "",
+    "infos": {
+        "count": 67,
+        "pageSize": 10,
+        "pageNo": 4,
+        "orderBy": "time",
+        "sortType": "desc",
+        "dataRows": [
+            {
+                "id": 1,
+                "corpname"      : "株式会社EXP",
+                "playlistname"  : "開始動画　LOGO",
+                "startTime"     : "09:00",
+                "endTime"       : "09:10",
+                "playlistType"  : 0,
+                "size"          : "100M",
+                "vedios"         : [
+                    {
+                        "id"        : 1,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.mp4",
+                        "name"      : "1.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    },
+                    {
+                        "id"        : 2,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.mp4",
+                        "name"      : "2.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    }
+                ]
+
+            },
+            {
+                "id": 2,
+                "corpname"      : "株式会社EXP",
+                "playlistname"  : "株式会社EXP/本社ビル設置/端末番号10001用　CM映像1",
+                "startTime"     : "09:10",
+                "endTime"       : "12:00",
+                "playlistType"  : 1,
+                "size"          : "100M",
+                "vedios"         : [
+                    {
+                        "id"        : 1,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.mp4",
+                        "name"      : "1.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    },
+                    {
+                        "id"        : 2,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.mp4",
+                        "name"      : "2.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    }
+                ]
+
+            },
+            {
+                "id": 3,
+                "corpname"      : "株式会社EXP",
+                "playlistname"  : "株式会社EXP/本社ビル設置/端末番号10001用　CM映像2",
+                "startTime"     : "12:00",
+                "endTime"       : "18:00",
+                "playlistType"  : 1,
+                "size"          : "100M",
+                "vedios"         : [
+                    {
+                        "id"        : 1,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.mp4",
+                        "name"      : "1.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    },
+                    {
+                        "id"        : 2,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.mp4",
+                        "name"      : "2.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    }
+                ]
+
+            },
+            {
+                "id": 4,
+                "corpname"      : "株式会社EXP",
+                "playlistname"  : "終了動画　LOGO",
+                "startTime"     : "18:00",
+                "endTime"       : "18:10",
+                "playlistType"  : 1,
+                "size"          : "100M",
+                "vedios"         : [
+                    {
+                        "id"        : 1,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/1.mp4",
+                        "name"      : "1.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    },
+                    {
+                        "id"        : 2,
+                        "poster"    : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png",
+                        "src"       : "https://akechi1980.github.io/NBroots/img/VedioMarket/2.mp4",
+                        "name"      : "2.mp4",
+                        "times"     : 1,
+                        "size"      : "110M",
+                        "length"    : "20S"
+                    }
+                ]
+
+            }
+        ]
+    }
+}

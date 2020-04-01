@@ -1,0 +1,36 @@
+{
+  "_comment": "端末状況＞詳細情報の　端末PLAYLIST",
+  "status": 0,
+  "msg": "",
+  "infos": {
+    "count": 67,
+    "pageSize": 10,
+    "pageNo": 7,
+    "orderBy": "time",
+    "sortType": "desc",
+    "dataRows": [
+      {
+        "id": 1,
+        "terminalStart": "9:00",
+        "terminalEnd": "9:10",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png",
+        "playlist": "リスト１"
+        
+      },
+      {
+        "id": 2,
+        "terminalStart": "9:10",
+        "terminalEnd": "12:00",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png",
+        "playlist": "リスト2"
+      },
+      {
+        "id": 3,
+        "terminalStart": "12:00",
+        "terminalEnd": "18:00",
+        "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/4.png",
+        "playlist": "リスト３"
+      }
+    ]
+  }
+}
