@@ -8,16 +8,14 @@
         "pageNo": 0,
         "dataRows": [
             {
-                "id": 1,
-                "place": "EXP本社ビル設置"
+                "id"    : 1,
+                "corp"  : "株式会社EXP",
+                "group" : "EXP本社ビル設置"
             },
             {
                 "id": 2,
-                "place": "EXP御茶ノ水事務所設置"
-            },
-            {
-                "id": 3,
-                "place": "NRI保土ヶ谷設置"
+                "corp"  : "株式会社EXP",
+                "group": "EXP御茶ノ水事務所設置"
             }
         ]
     }
