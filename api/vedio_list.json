@@ -16,6 +16,7 @@
     "dataRows": [
       {
         "id": 1,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/1.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/1.png",
         "name": "1.mp4",
@@ -26,6 +27,7 @@
       },
       {
         "id": 2,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/2.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/2.png",
         "name": "2.mp4",
@@ -36,6 +38,7 @@
       },
       {
         "id": 3,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/3.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/3.png",
         "name": "3.mp4",
@@ -46,6 +49,7 @@
       },
       {
         "id": 4,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/4.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/4.png",
         "name": "4.mp4",
@@ -56,6 +60,7 @@
       },
       {
         "id": 5,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/5.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/5.png",
         "name": "5.mp4",
@@ -66,6 +71,7 @@
       },
       {
         "id": 6,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/6.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/6.png",
         "name": "6.mp4",
@@ -76,6 +82,7 @@
       },
       {
         "id": 7,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/7.png",
         "name": "7.mp4",
@@ -86,6 +93,7 @@
       },
       {
         "id": 8,
+        "corp": "株式会社EXP",
         "src": "https://akechi1980.github.io/NBroots/img/VedioMarket/8.mp4",
         "poster": "https://akechi1980.github.io/NBroots/img/VedioMarket/8.png",
         "name": "8.mp4",
