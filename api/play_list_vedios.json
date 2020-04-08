@@ -6,8 +6,6 @@
         "count": 67,
         "pageSize": 10,
         "pageNo": 4,
-        "orderBy": "time",
-        "sortType": "desc",
         "dataRows": [
             {
                 "id": 1,
